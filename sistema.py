@@ -1,2 +1,4 @@
 class Supermercado:
-    pass
+    
+    def func_1(self):
+        pass
