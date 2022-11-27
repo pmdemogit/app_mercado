@@ -1,0 +1,2 @@
+class Supermercado:
+    pass
